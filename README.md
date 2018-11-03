@@ -13,5 +13,3 @@ Observed Trend 3:
 From graph "City Latitude vs Wind Speed (03/17/18)", The wind speeds for cities around Equator below 20mph. However, temperature (due to the constantly high temperature around Equator) is just one of the many factors that affecting the Wind Speed. Thus the correlation might seems a bit low. 
 
 
-
- 
